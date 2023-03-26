@@ -17,7 +17,7 @@
 
 <br>
 
-- I am passionate about all things technology related and I love working on new projects and discovering new technologies. My fields of interest include Web Developement, App Developement, Machine Learning and UI/UX Design.
+- I am passionate about all things tech and I love working on new projects and discovering new languages and frameworks. My fields of interest include Web Developement, App Developement, Machine Learning and UI/UX Design.
 - Aspiring Full Stack Developer
 - Currently working on Machine Learning and React
 - Willing to collaborate on any Web Developement projects
