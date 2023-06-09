@@ -17,10 +17,10 @@
 
 <br>
 
-- I am passionate about all things tech and I love working on new projects and discovering new languages and frameworks. My fields of interest include Web Developement, App Developement, Machine Learning and UI/UX Design.
+- I am passionate about all things tech and I love working on new projects and discovering new languages and frameworks. My fields of interest include Web Developement, App Developement and Machine Learning.
 - Aspiring Full Stack Developer
-- Currently working on Machine Learning and React
-- Willing to collaborate on any Web Developement projects
+- Currently working on Machine Learning, React and React Native
+- Willing to collaborate on any App/Web Developement projects
 
 
 
@@ -41,7 +41,7 @@
 
 <br>   
     
-- **Web Development**:
+- **Full Stack Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,6 +50,7 @@
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
    ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 
