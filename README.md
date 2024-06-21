@@ -14,7 +14,7 @@
 
 - I am passionate about all things tech and I love working on new projects and discovering new languages and frameworks. My fields of interest include Web Developement, App Developement and Machine Learning.
 - Aspiring Full Stack Developer
-- Currently working on Machine Learning, React and React Native
+- Currently working on Robotics, Operating Systems, React and React Native
 - Willing to collaborate on any App/Web Developement projects
 <br>
 
